@@ -1,2 +1,4 @@
 # Python-Projects
-This repository documents several baby python projects.
+This repository documents baby game project written in python.
+
+Project 1: BlackJack.
