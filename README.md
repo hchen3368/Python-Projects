@@ -1,4 +1,4 @@
-# Baby Game Projects with Python.
+# Python Projects.
 
 This repository documents baby game project written in python.
 
